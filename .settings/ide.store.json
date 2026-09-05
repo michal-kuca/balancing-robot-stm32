@@ -1,0 +1,10 @@
+{
+  "source": {
+    "sourceType": "STM32CubeMX"
+  },
+  "board": "NUCLEO-F103RB",
+  "device": "STM32F103RBT6",
+  "core": "Cortex-M3",
+  "order": 0,
+  "toolchain": "GCC"
+}
